@@ -20,7 +20,7 @@ const sadTexts = [
     "Yakin nih? 🥺",
     "Masa tega... 😔",
     "Kasih kesempatan sekali aja ❤️",
-    "Aku janji berubah.",
+    "I janji berubah.",
     "Klik yang satunya aja ya...",
     "Please...",
     "Jangan gitu dong 😭"
@@ -28,13 +28,13 @@ const sadTexts = [
 
 const letterLines = 
 `haiiiiii sayangggg...
-i sadar aku sudah melakukan kesalahan.
-i benar" mintaa maaffff.
-i tidaaa bermaksudd membuat u sediii.
+ututuuuuuuu cayankkk kenapaaa iaafff.
+pastiii lagii nahann nafsu iaaff🤭.
+tidaaa apaaa apaaa perinnnseeeesssssssssssssss.
 
-terimaa kasiyy karenaaa sudaaa menjadii orang yang selaluu sabar menghadapi i.
-i akan berusaha menjadi lebih baik lagi.
-semoga u masih mau memberikan i kesempatan sayangggg udahhh iaaa ngambeknyaa perinsessss.
+semogaaaa setelah bacaaa imniyyy perinnnseeeesssssssssssssss tidaaa ngambekk iaaa
+dannn bisaaa boboooo malam iniii jugaa 
+sekarang harussss bobooo iaaa perinsessss.
 
 i sayangggg bangetttt samaaa u 🤍🤍🤍🤍🤍🤍`;
 
