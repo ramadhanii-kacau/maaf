@@ -1,4 +1,4 @@
-// --- Inisialisasi Elemen ---
+// --- Inisialisasi  Elemen ---
 const btnNo = document.getElementById('btn-no');
 const btnYes = document.getElementById('btn-yes');
 const floatingText = document.getElementById('floating-text');
