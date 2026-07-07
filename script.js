@@ -130,7 +130,7 @@ setInterval(createBlueHeart, 300);
 function moveButtonNo() {
     noClickCount++;
     
-    const maxOffset = 300; 
+    const maxOffset = 90; 
     const randomX = (Math.random() * (maxOffset * 2)) - maxOffset;
     const randomY = (Math.random() * (maxOffset * 2)) - maxOffset;
     
