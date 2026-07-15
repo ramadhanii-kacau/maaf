@@ -28,13 +28,13 @@ const sadTexts = [
 
 const letterLines = 
 `haiiiiii sayangggg...
-ututuuuuuuu cayankkk kenapaaa iaafff.
-pastiii lagii nahann nafsu iaaff🤭.
-tidaaa apaaa apaaa perinnnseeeesssssssssssssss.
+maafff yaaaa sayanggggg.
+i ndak akan kaya gitu lagi koo.
+jangan ngambek lagi yaaa.
 
-semogaaaa setelah bacaaa imniyyy perinnnseeeesssssssssssssss tidaaa ngambekk iaaa
+semogaaaa setelah bacaaa imniyyy perinnnceeesssssssssssssss tidaaa ngambekk iaaa
 dannn bisaaa boboooo malam iniii jugaa 
-sekarang harussss bobooo iaaa perinsessss.
+sekarang harussss bobooo iaaa perincessss.
 
 i sayangggg bangetttt samaaa u 🤍🤍🤍🤍🤍🤍`;
 
